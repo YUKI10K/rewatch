@@ -71,7 +71,8 @@
 - TMDb API(映画情報の取得)
 
 ### インフラ
-- Heroku
+- Render (Web Service)
+- Render (PostgreSQL)
 
 ### 開発環境
 - Git/GitHub
