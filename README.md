@@ -168,6 +168,9 @@
 - DB：PostgreSQL
 - デプロイ先：Render
 - 使用予定ライブラリ：devise（ユーザー認証のため）、kaminari（一覧をページ分け）
+### インフラ
+- Render (Web Service)
+- Render (PostgreSQL)
 
 ### 10-2. 技術選定の比較検討
 
@@ -197,3 +200,7 @@
 本アプリのMVPでは、学習済みで確実に実装できるRails(View) + jQueryを採用した。React/Vueも検討したが、学習コストがかかり、MVPの開発期間内に完成できないリスクがあると判断し不採用とした。
 
 今後の対処としては、本リリース後に通知機能からReactを試験的に導入し、学習と実践を並行して進める予定である。
+
+## ER図
+
+![ER図](docs/rewatch.drawio.png)
