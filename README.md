@@ -201,6 +201,9 @@
 
 今後の対処としては、本リリース後に通知機能からReactを試験的に導入し、学習と実践を並行して進める予定である。
 
+### 画面遷移図
+Figma：https://www.figma.com/design/yVPQThEp8gEIyF1g4PC2s1/%E7%84%A1%E9%A1%8C?node-id=0-1&t=leTFaswsufQyqW54-1
+
 ## ER図
 
 ![ER図](docs/rewatch.drawio.png)
